@@ -15,3 +15,10 @@ This is my account from shared code and project of my university and work
 - 💬 Ask me about Java and C++
 - 😄 Pronouns: Carpe Diem
 - ⚡ Carrer: Mobile and web backend development
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TioComeGfas&count_private=true&show_icons=true&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TioComeGfas&langs_count=8&layout=compact&theme=buefy" />
+</a>
