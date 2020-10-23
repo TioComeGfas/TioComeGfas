@@ -2,6 +2,8 @@
 
 This is my account from shared code and project of my university and work
 
+![gatito](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
+
 <!--
 **TioComeGfas/TioComeGfas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
