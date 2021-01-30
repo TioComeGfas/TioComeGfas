@@ -14,7 +14,7 @@ This is my account from shared code and project of my university and work
 - 🤔 I like programming, play games and listen to music.
 - 💬 Ask me about Java and C++
 - 😄 Pronouns: Carpe Diem
-- ⚡ Carrer: Mobile and web backend development
+- ⚡ Carrer: Mobile native development
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TioComeGfas&count_private=true&show_icons=true&theme=buefy" />
