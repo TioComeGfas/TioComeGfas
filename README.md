@@ -17,8 +17,13 @@ This is my account from shared code and project of my university and work
 - ⚡ Carrer: Mobile native development
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TioComeGfas&count_private=true&show_icons=true&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TioComeGfas&count_private=true&show_icons=true&theme=buefy&include_all_commits=true&locale=es" />
 </a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TioComeGfas&langs_count=8&layout=compact&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TioComeGfas&langs_count=10&theme=buefy&locale=es&layout=compact" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=TioComeGfas" />
 </a>
