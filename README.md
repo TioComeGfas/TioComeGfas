@@ -8,13 +8,13 @@ This is my account from shared code and project of my university and work
 **TioComeGfas/TioComeGfas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working on INIA Quilamapu
+- 🔭 I’m currently working on INIA Quilamapu, LB-Track
 - 🌱 I’m currently learning Clean Code
 - 👯 I’m looking to collaborate on open source
-- 🤔 I like programming, play games and listen to music.
-- 💬 Ask me about Java and C++
+- 🤔 I like programming, play games, read books and listen to music.
+- 💬 Ask me about Java, Kotlin, Swift and C/C++
 - 😄 Pronouns: Carpe Diem
-- ⚡ Carrer: Mobile native development
+- ⚡ Carrer: Android Engineer
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TioComeGfas&count_private=true&show_icons=true&theme=buefy&include_all_commits=true&locale=es" />
