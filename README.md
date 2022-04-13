@@ -6,7 +6,7 @@
 <img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/omsi.png" width=10% height=10%><img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/sada.png" width=10% height=10%><img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/ost.png" width=10% height=10%> 
 ####
 #### 💻 Tecnologías y lenguajes || Technologies and languages 💻
-<img src="https://raw.githubusercontent.com/TioComeGfas/TioComeGfas/feca323a2cc699910b81fac11093b8594eca40b0/kotlin.svg" width=10% height=10%><img src="https://raw.githubusercontent.com/TioComeGfas/TioComeGfas/main/android.png" width=10% height=10%><img src="https://raw.githubusercontent.com/TioComeGfas/TioComeGfas/main/java.png" width=10% height=10%><img src="https://raw.githubusercontent.com/TioComeGfas/TioComeGfas/main/apple.png" width=10% height=10%><img src="https://raw.githubusercontent.com/TioComeGfas/TioComeGfas/main/swift.png" width=10% height=10%><img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/c%20(1).png" width=10% height=10%><img 
+<img src="https://raw.githubusercontent.com/TioComeGfas/TioComeGfas/feca323a2cc699910b81fac11093b8594eca40b0/kotlin.svg" width=10% height=10%><img src="https://raw.githubusercontent.com/TioComeGfas/TioComeGfas/main/android.png" width=10% height=10%><img src="https://raw.githubusercontent.com/TioComeGfas/TioComeGfas/main/java.png" width=10% height=10%><img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/c%20(1).png" width=10% height=10%><img 
 src="https://github.com/TioComeGfas/TioComeGfas/blob/main/c.png" width=10% height=10%>
 ####
 #### 💎 Clientes actuales || Current customers 💎
