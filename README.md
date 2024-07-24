@@ -13,7 +13,8 @@ src="https://github.com/TioComeGfas/TioComeGfas/blob/main/c.png" width=10% heigh
 <img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/inia.png" width=20% height=20%><img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/lb-track.jpg" width=20% height=20%>
 ####
 #### 🔮 Companies I worked for 🔮
-<img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/inia.png" width=20% height=20%><img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/lb-track.jpg" width=20% height=20%>
+<img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/logo-bf-cmr.svg" width=20% height=20%>  <img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/logo-scotiabank-red.svg" width=20% height=20%>
+####
 ####
 #### 📊 Statistics 📊
 <a href="https://github.com/anuraghazra/github-readme-stats">
