@@ -2,9 +2,13 @@
 #### 👦🏼 I'm a proactive person ⚡️ who loves to soak up new knowledge 😁 and improve both soft skills and techniques🤘🏼
 #### 🔋 I perform in the development of native applications 📱 for Android (Kotlin/Java) y iOS (Swift). 🙌🏼 My hobbies consist of listening to music 🎵, playing video games 🎮 , read 📚 and go out with my friends 🕺🏼.
 ####
-#### 📱 Private type apps 📱
-<img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/omsi.png" width=10% height=10%><img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/sada.png" width=10% height=10%><img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/ost.png" width=10% height=10%> 
+#### 📱 Private apps 📱
+<img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/omsi.png" width=10% height=10%><img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/sada.png" width=10% height=10%><img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/ost.png" width=10% height=10%><img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/smart_chicory.png" width=10% height=10%>
 ####
+
+#### 📱 Personal apps 📱
+<img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/macro_calculator.png" width=10% height=10%><img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/qr_inventory.png" width=10% height=10%>
+
 #### 💻 Technologies and languages 💻
 <img src="https://raw.githubusercontent.com/TioComeGfas/TioComeGfas/feca323a2cc699910b81fac11093b8594eca40b0/kotlin.svg" width=10% height=10%><img src="https://raw.githubusercontent.com/TioComeGfas/TioComeGfas/main/android.png" width=10% height=10%><img src="https://raw.githubusercontent.com/TioComeGfas/TioComeGfas/main/java.png" width=10% height=10%><img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/c%20(1).png" width=10% height=10%><img 
 src="https://github.com/TioComeGfas/TioComeGfas/blob/main/c.png" width=10% height=10%>
