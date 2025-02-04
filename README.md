@@ -16,7 +16,7 @@ I'm a proactive developer passionate about **native applications** for **Android
 |---------------------|------|  
 | **Kotlin**         | <img src="https://raw.githubusercontent.com/TioComeGfas/TioComeGfas/feca323a2cc699910b81fac11093b8594eca40b0/kotlin.svg" width="50" height="50"/> |  
 | **Java**           | <img src="https://raw.githubusercontent.com/TioComeGfas/TioComeGfas/main/java.png" width="50" height="50"/> |  
-| **Swift**          | <img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/c.png" width="50" height="50"/> |  
+| **Swift**          | <img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/swift.png" width="50" height="50"/> |  
 | **C++**            | <img src="https://github.com/TioComeGfas/TioComeGfas/blob/main/c%20(1).png" width="50" height="50"/> |  
 
 ---
